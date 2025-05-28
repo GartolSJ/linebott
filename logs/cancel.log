@@ -1,0 +1,93 @@
+[2025-05-18 10:05:12] IN  id=59 reason="123"
+[2025-05-18 10:08:11] IN id=59 reason="wqeweqw"
+[2025-05-18 10:27:55] IN id=59 reason="5555"
+[2025-05-18 10:27:55] ERROR Unknown column 'u.line_user_id' in 'field list'
+[2025-05-18 10:45:31] IN id=57 reason="dawwdawd"
+[2025-05-18 10:45:31] ERROR Unknown column 'u.line_user_id' in 'field list'
+[2025-05-18 10:47:13] IN id=61 reason="123"
+[2025-05-18 10:47:13] ERROR Unknown column 'u.line_user_id' in 'field list'
+[2025-05-18 10:48:35] IN id=59 reason="adwawd"
+[2025-05-18 10:48:35] ERROR Unknown column 'u.line_user_id' in 'field list'
+[2025-05-18 10:48:40] IN id=57 reason="QSqsq"
+[2025-05-18 10:48:40] ERROR Unknown column 'u.line_user_id' in 'field list'
+[2025-05-18 10:52:59] IN id=57 reason="dawadaw"
+[2025-05-18 10:52:59] ERROR Unknown column 'u.line_user_id' in 'field list'
+[2025-05-18 10:55:03] IN id=57 reason="sefsefsef"
+[2025-05-18 10:55:03] ERROR Unknown column 'u.line_user_id' in 'field list'
+[2025-05-18 10:55:17] IN id=57 reason="adwawdawd"
+[2025-05-18 10:55:17] ERROR Unknown column 'u.line_user_id' in 'field list'
+[2025-05-18 10:56:31] IN id=57 reason="dawawdw"
+[2025-05-18 10:56:31] ERROR Unknown column 'u.user_id' in 'field list'
+[2025-05-18 10:56:40] IN id=57 reason="Hello"
+[2025-05-18 10:56:40] ERROR Unknown column 'u.user_id' in 'field list'
+[2025-05-18 10:59:34] IN id=57 reason="adwaawdwda"
+[2025-05-18 10:59:34] UPDATE OK id=57 rows=1
+[2025-05-18 10:59:35] LINE HTTP 200 errno 0 rsp {"sentMessages":[{"id":"561549309573595358","quoteToken":"SdD7Oi7uAujN2FcALM_A-5iZPVHzCkYbBWTtFA80FFGiREhspf9r-ajCvqkf2N5peu61AqapD9vs5fIfuOhqPD0vB6NSkDfoWNWVDh844P0_2Ev-UaC7FIod4Uw2WV_WbB8o9ynM-cBYkJv8-70e8w"}]}
+[2025-05-18 10:59:35] PUSH OK to U1567d9e371cf0a5bde2f1edf9228f5fa
+[2025-05-18 11:02:03] IN id=55 reason="Hello"
+[2025-05-18 11:02:03] UPDATE OK id=55 rows=1
+[2025-05-18 11:02:03] LINE HTTP 200 errno 0 rsp {"sentMessages":[{"id":"561549558614589649","quoteToken":"ffYG8KAu0ZbahbolGwCe7RIB6UaOuvCvstg0A8iykvmdyxxyl0DLEWGN7V32hULja26uqgnmDWFdnzwkLNtvs-B8YBNaYjdeHXQqjK6IrEZdLTcRY81-sYO84XtmUL0IkxNga2MYPDjAPT7k4YtBDQ"}]}
+[2025-05-18 11:02:03] PUSH OK to U1567d9e371cf0a5bde2f1edf9228f5fa
+[2025-05-18 11:04:51] IN id=59 reason="เงี่ยน"
+[2025-05-18 11:04:51] UPDATE OK id=59 rows=1
+[2025-05-18 11:04:51] LINE HTTP 200 errno 0 rsp {"sentMessages":[{"id":"561549840439050311","quoteToken":"ZAz_5Pe6tOPm-sPtzZjBOuMaDsmGromGrEQIIF0qpu4Zvr9MAjAm4VAmtWnhlz-cL_hpsrZfWbvubapcoEu8nUJb5joITE0tcsIRKCIX9lVR9t1Gqu_-1Vn4xkESKrNQv3f_IcbkzPXaoq1m-2o4eA"}]}
+[2025-05-18 11:04:51] PUSH OK to U1567d9e371cf0a5bde2f1edf9228f5fa
+[2025-05-18 11:07:50] IN id=61 reason="Hello"
+[2025-05-18 11:07:50] UPDATE OK id=61 rows=1
+[2025-05-18 11:07:50] LINE HTTP 200 errno 0 rsp {"sentMessages":[{"id":"561550140767469656","quoteToken":"3efaZ7YmfjFC8Kg2PfT-hLYbZx1DBhbqnCWMmi_jZ5w34kgdHEqfx9FfT5UMacZQoFaisRCI6RGxEsd72I1oxLYVmKuvaCYwwxUP3HdUkz5ytTLyliFBdaqqR5ytGE_TnCe0Ktt-KVu_LG0hLAVmqw"}]}
+[2025-05-18 11:07:50] PUSH OK to U1567d9e371cf0a5bde2f1edf9228f5fa
+[2025-05-18 11:11:53] IN id=63 reason="huh"
+[2025-05-18 11:11:53] UPDATE OK id=63 rows=1
+[2025-05-18 11:11:54] LINE HTTP 200 errno 0 rsp {"sentMessages":[{"id":"561550549242085708","quoteToken":"2SRr7b45T5vWNdqkfmSS-Hx95Ez8n6dylJ5g5n9HvrO97VN5lIm8AQtdkHNmDqXSmhzHwv-BqxR656WpNjJxRP6V6YKCnyy_EbevfnPpvZCkYJcQQZSC_oOHIbeE33fyDGfMy-gFG47uUfh1a4VI_w"}]}
+[2025-05-18 11:11:54] PUSH OK to U1567d9e371cf0a5bde2f1edf9228f5fa
+[2025-05-18 11:14:52] IN id=65 reason="เล่นหาพ่อมึงหรอ"
+[2025-05-18 11:14:52] UPDATE OK id=65 rows=1
+[2025-05-18 11:14:53] LINE HTTP 200 errno 0 rsp {"sentMessages":[{"id":"561550849420296284","quoteToken":"xrfhefC5ELIdYC1gkrAD-ByZEOYb3XuQZyno_i8J_zclFxLNYQuyJ_IRbc_8VKZD1bW0pOUPnsH-MdiTT-t0qbAJcAldVrHicjVAXdzXMdGvT6kKefC2AFUyIT25OBVVsGrdoVfhm3JTbYHalwjBXA"}]}
+[2025-05-18 11:14:53] PUSH OK to U1567d9e371cf0a5bde2f1edf9228f5fa
+[2025-05-18 11:16:21] IN id=66 reason="ควยยย"
+[2025-05-18 11:16:21] UPDATE OK id=66 rows=1
+[2025-05-18 11:16:21] LINE HTTP 200 errno 0 rsp {"sentMessages":[{"id":"561550998167093646","quoteToken":"2qPM2bs9I1CkZC2JvzslZ9twsJaZ8ulbEIe0v5gA46qxAOT8wO3kHzMD43TpZukw-uVsjMH4GCm_b2UHlRrcb4B9mq9ao_uF_9F4BS9pEdylGsUMfkbG_OvPmYKHmH5cV78rA-NxFYPuUrpf1Z-NEA"}]}
+[2025-05-18 11:16:21] PUSH OK to U1567d9e371cf0a5bde2f1edf9228f5fa
+[2025-05-18 12:16:25] IN id=69 reason="ควายหาย"
+[2025-05-18 12:16:25] UPDATE OK id=69 rows=1
+[2025-05-18 12:16:25] LINE HTTP 200 errno 0 rsp {"sentMessages":[{"id":"561557044290388431","quoteToken":"CxUR1GoCO7awD5NAwoTFHIqmd0gsZ4aunagNcjfu3CwYOo_cJ8jBgG0R_LjyFHPGLk96E3_yzI0Xg7VndPFxinh4ZGM9SJWXpP04hNjWEH2cKcr0kPCwY2NiLmns8uNnJUwGBulPqNz1ElQ8XzJNrA"}]}
+[2025-05-18 12:16:25] PUSH OK to U1567d9e371cf0a5bde2f1edf9228f5fa
+[2025-05-20 18:52:28] IN id=72 reason="123" by Unknown
+[2025-05-20 18:52:28] ERROR Unknown column 'deleted_by' in 'field list'
+[2025-05-20 18:53:59] IN id=72 reason="123" by Unknown
+[2025-05-20 18:53:59] ERROR Unknown column 'deleted_by' in 'field list'
+[2025-05-20 18:54:58] IN id=72 reason="424234" by Unknown
+[2025-05-20 18:54:58] UPDATE OK id=72 by Unknown
+[2025-05-20 18:54:59] LINE HTTP 200 errno 0 rsp {"sentMessages":[{"id":"561887075096330640","quoteToken":"grg3ca3rMFn7CWNOsfVz2PRbPAAdhWOCKxzREQKkqzJXZjmag73i7cYAp-I8GK3FYxgaDUHxoOFCUmnMXhUYfPHEP0oW0V9UHorjkyzPCwG200ejbPisFhuh9eUpouw538R0q0ue1EFWqvA8CtCGrg"}]}
+[2025-05-20 18:54:59] PUSH OK to U1567d9e371cf0a5bde2f1edf9228f5fa
+[2025-05-20 18:54:59] GCHAT SEND ➜ {"text":"*❌ Remove Report*\n*What:* แอร์หนาวโว้ยย\n*Department:* ฝ่ายอาคาร\n*Why:* 424234\n*Who Removed:* Unknown"}
+[2025-05-20 18:54:59] IN id=72 reason="424234" by Unknown
+[2025-05-20 18:54:59] UPDATE OK id=72 by Unknown
+[2025-05-20 18:55:00] LINE HTTP 200 errno 0 rsp {"sentMessages":[{"id":"561887077361254986","quoteToken":"N-GqbWiaZj3NkGhkQRhyVntsA_JGwwe4sreunSewpyXOV1mCWSKHPeEmV26oITkwtHLki3tvlJWQu2ZWrHpIdGcCtHU3DtelyKau_MSK_nAkns4R2caxwGyQMqXjrvQukJDONRbMy5Pe43BPvPO6Ag"}]}
+[2025-05-20 18:55:00] PUSH OK to U1567d9e371cf0a5bde2f1edf9228f5fa
+[2025-05-20 18:55:00] GCHAT SEND ➜ {"text":"*❌ Remove Report*\n*What:* แอร์หนาวโว้ยย\n*Department:* ฝ่ายอาคาร\n*Why:* 424234\n*Who Removed:* Unknown"}
+[2025-05-20 18:57:20] IN id=71 reason="awdawd" by Unknown
+[2025-05-20 18:57:20] UPDATE OK id=71 by Unknown
+[2025-05-20 18:57:21] LINE HTTP 200 errno 0 rsp {"sentMessages":[{"id":"561887313081401362","quoteToken":"-sFGsuLgBe1u1RUsaq569XOrAc8geXULptNcbeQvv9Vvh3puTQK2KSELQNyDpTaR1U4BCNvJPIzY65-jLvkcZNe3naRjJPMEoFDpPW98u_OJ3ulakGzGIMr2sNi5mMrxRES5kW9GhZyMfcWVr4MO9g"}]}
+[2025-05-20 18:57:21] PUSH OK to U867b0adf39fd8607c1e5fecec5a8d96e
+[2025-05-20 18:57:21] GCHAT SEND ➜ {"text":"*❌ Remove Report*\n*What:* แอร์ไม่เย็น\n*Department:* ฝ่ายอาคาร\n*Why:* awdawd\n*Who Removed:* Unknown"}
+[2025-05-20 19:00:37] IN id=68 reason="1234" by Thirapat Tiyawatwittaya
+[2025-05-20 19:00:37] UPDATE OK id=68 by Thirapat Tiyawatwittaya
+[2025-05-20 19:00:38] LINE HTTP 200 errno 0 rsp {"sentMessages":[{"id":"561887644314239129","quoteToken":"U_hjrPs2-Ganbupu0sR85KngyqzCX7WkCkPhG973sbsTDPwVM5XrCp0HQg0Jvmb3Ch3Jq63UW57qBbz9321fyUQ4v-ohawUHiuPfiHK4XOnOlpHye9f2hNUWNs_Luej8HiRfjYzFSpY2F6yI5vMyJg"}]}
+[2025-05-20 19:00:38] PUSH OK to U867b0adf39fd8607c1e5fecec5a8d96e
+[2025-05-20 19:00:38] GCHAT SEND ➜ {"text":"*❌ Remove Report*\n*What:* Hhhgdhis\n*Department:* ฝ่ายอาคาร\n*Why:* 1234\n*Who Removed:* Thirapat Tiyawatwittaya"}
+[2025-05-20 19:01:02] IN id=70 reason="55555555" by Thirapat Tiyawatwittaya
+[2025-05-20 19:01:02] UPDATE OK id=70 by Thirapat Tiyawatwittaya
+[2025-05-20 19:01:03] LINE HTTP 200 errno 0 rsp {"sentMessages":[{"id":"561887685786992927","quoteToken":"337MqFAVpK8IpebMTn9Q5czsNM3cmb6zFt5suw_yttql6Zg_846lBDCVajnCJp0IzilCrAAKsyT6zLivjOCvkFPzOCsoD-KVzkyn2jwVG3A6hwuhFMkW31-g8nFGMvLeFz1N0SoJMrdLaiHY-_JG7w"}]}
+[2025-05-20 19:01:03] PUSH OK to U867b0adf39fd8607c1e5fecec5a8d96e
+[2025-05-20 19:01:03] GCHAT SEND ➜ {"text":"*❌ Remove Report*\n*What:* ร้อน\n*Department:* ฝ่ายอาคาร\n*Why:* 55555555\n*Who Removed:* Thirapat Tiyawatwittaya"}
+[2025-05-20 19:01:16] IN id=67 reason="ควาย" by Thirapat Tiyawatwittaya
+[2025-05-20 19:01:16] UPDATE OK id=67 by Thirapat Tiyawatwittaya
+[2025-05-20 19:01:16] LINE HTTP 200 errno 0 rsp {"sentMessages":[{"id":"561887708201615368","quoteToken":"78Zya2FqtQLGxAnZgk8cnngTlBFnB-eASdga4ha8JlwVUa2iw0wydyzJBYBkj9wUt6FnM4_wn0jMFvU3eOIKswVG4wkwePA6Z5WEFlmWQ8IOIYJnC8K7dsLqwEIEcMwnUkQP6lVcR6zNLw2TG4kVrg"}]}
+[2025-05-20 19:01:16] PUSH OK to U1567d9e371cf0a5bde2f1edf9228f5fa
+[2025-05-20 19:01:16] GCHAT SEND ➜ {"text":"*❌ Remove Report*\n*What:* 525252552\n*Department:* สารสนเทศ (MIS)\n*Why:* ควาย\n*Who Removed:* Thirapat Tiyawatwittaya"}
+[2025-05-21 16:19:50] IN id=79 reason="ควาย" by Thirapat Tiyawatwittaya
+[2025-05-21 16:19:50] UPDATE OK id=79 by Thirapat Tiyawatwittaya
+[2025-05-21 16:19:51] LINE HTTP 200 errno 0 rsp {"sentMessages":[{"id":"562016414345986528","quoteToken":"FVgROXPrhtBDnFw7N2135iX_ciOV6V2TO3fyXDezKAbkyn4UAjL2P6ZLhVGeVNlBRxShsEJYrfXApklYymf-OMhADknCRC3XP-uIZjVjJf7nAPssvml7GBDYtRR7e56nzsYZF8xA64yiW4X3t0rUnw"}]}
+[2025-05-21 16:19:51] PUSH OK to U1567d9e371cf0a5bde2f1edf9228f5fa
+[2025-05-21 16:19:51] GCHAT SEND ➜ {"text":"*❌ Remove Report*\n*What:* ทดลองระบบ log\n*Department:* สารสนเทศ (MIS)\n*Why:* ควาย\n*Who Removed:* Thirapat Tiyawatwittaya"}
